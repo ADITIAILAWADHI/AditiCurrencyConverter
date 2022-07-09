@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Convertisseur de devises Aditi</string>
+    <string name="currency_converter">Convertisseur de devises</string>
+    <string name="current_time">Heure actuelle</string>
+    <string name="text_currency_from">À partir de</string>
+    <string name="text_currency_to">Pour</string>
+    <string name="enter_amount">Entrer le montant</string>
+    <string name="result">Résultat</string>
+    <string name="convert_button">CONVERTIR</string>
+    <string name="clearAll">TOUT EFFACER</string>
+    <string name="language">Langue</string>
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Aditi Currency Converter</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="current_time">Current time</string>
+    <string name="text_currency_from">From</string>
+    <string name="text_currency_to">To</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="result">Result</string>
+    <string name="convert_button">CONVERT</string>
+    <string name="clearAll">CLEAR ALL</string>
+    <string name="language">Language</string>
+
+    <string-array name="currency_from">
+        <item>AUD</item>
+        <item>INR</item>
+        <item>AED</item>
+        <item>EUR</item>
+        <item>USD</item>
+        <item>CAD</item>
+    </string-array>
+
+    <string-array name="currency_to">
+        <item>INR</item>
+        <item>AUD</item>
+        <item>AED</item>
+        <item>EUR</item>
+        <item>USD</item>
+        <item>CAD</item>
+    </string-array>
+
+    <string-array name="shortLanguages">
+        <item>EN</item>
+        <item>FR</item>
+        <item>VI</item>
+    </string-array>
+</resources>

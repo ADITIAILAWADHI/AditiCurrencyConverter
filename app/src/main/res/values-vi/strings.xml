@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Công cụ chuyển đổi tiền tệ Aditi</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="currency_converter">Chuyển đổi tiền tệ</string>
+    <string name="current_time">Thời điểm hiện tại</string>
+    <string name="text_currency_from">Từ</string>
+    <string name="text_currency_to">Đến</string>
+    <string name="enter_amount">Nhập số tiền</string>
+    <string name="result">Kết quả</string>
+    <string name="convert_button">ĐỔI</string>
+    <string name="clearAll">LÀM SẠCH TẤT CẢ</string>
+</resources>
